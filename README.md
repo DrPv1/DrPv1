@@ -4,7 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Full-Stack Developer
 ------------------------
 
-xasdsad
 
 * ✉️  You can contact me at [office.doctorP@gmail.com](mailto:office.doctorP@gmail.com)
 
