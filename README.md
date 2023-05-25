@@ -11,11 +11,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=ohmiler&style=flat-square&color=blue" alt="account counter"/>
-</div>
-
-<a href="https://www.github.com/DrPv1" target="_blank" rel="noreferrer"><img
+  <a href="https://www.github.com/DrPv1" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/DrPv1?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a>
+</div>
 =========================================================================================================================
 
 Web Full-Stack Developer
