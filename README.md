@@ -4,13 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.youtube.com/channel/UCeKE6wQHTt5JpS9_RsH4hrg" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://twitter.com/ohmiler">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <br>
   <a href="https://www.github.com/DrPv1" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/DrPv1?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a>
 </div>
