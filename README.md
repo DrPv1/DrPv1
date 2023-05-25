@@ -7,7 +7,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <a href="https://www.github.com/DrPv1" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/DrPv1?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a>
 </div>
-=========================================================================================================================
 
 Web Full-Stack Developer
 ------------------------
