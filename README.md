@@ -6,6 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <div id="badges" align="center">
   <a href="https://www.github.com/DrPv1" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/DrPv1?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a>
+<a href="http://www.github.com/DrPv1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DrPv1&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </div>
 
 Web Full-Stack Developer
